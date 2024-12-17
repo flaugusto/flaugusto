@@ -3,7 +3,7 @@
 
 Welcome to my Github!
 
-- 🔭 I’m currently working on [AprendiZAP](https://aprendizap.com.br)
+- 🔭 I’m currently working on [AprendiZAP](https://aprendizap.com.br) at [Fundação 1Bi](https://www.fundacao1bi.com.br/).
 
 - 🌱 I’m currently learning **AWS Well Architected Framework, Apollo Server, RxDb....**
 
