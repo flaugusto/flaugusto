@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Flavio Augusto Pereira Cunha</h1>
+<h1 align="center">Hi 👋, I'm Flavio </h1>
 <h3 align="center">A brazillian senior backend developer, passionate about tech, PC hardware and code.</h3>
 
 Welcome to my Github!
