@@ -31,5 +31,3 @@ Welcome to my Github!
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flaugusto&show_icons=true&locale=en&layout=compact" alt="flaugusto" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flaugusto&show_icons=true&theme=dracula&locale=en" alt="flaugusto" /></p>
