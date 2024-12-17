@@ -9,7 +9,7 @@ Welcome to my Github!
 
 - 🤝 I’m looking for help with **Software Security/GDPR**
 
-- 👨‍💻 All of my projects are available at [github.com/flaugusto](github.com/flaugusto)
+- 👨‍💻 All of my projects are available here in this github!
 
 - 💬 Ask me about **Typescript, Node.js, Rest APIs**
 
