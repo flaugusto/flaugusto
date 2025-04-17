@@ -15,7 +15,7 @@ Welcome to my Github!
 
 - 📫 How to reach me **flaugusto.dev@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/flaugusto](linkedin.com/in/flaugusto)
+- 📄 Know about my experiences [linkedin.com/in/flaugusto](https://linkedin.com/in/flaugusto)
 
 - ⚡ Fun fact **I'm the tech guru of my family and friends.**
 
