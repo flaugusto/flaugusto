@@ -5,7 +5,7 @@ Welcome to my Github!
 
 - 🔭 I’m currently working on [AprendiZAP](https://aprendizap.com.br) at [Fundação 1Bi](https://www.fundacao1bi.com.br/).
 
-- 🌱 I’m currently learning **AWS Well Architected Framework, Apollo Server, RxDb, leadership techiniques and many other things!**
+- 🌱 I’m currently learning **AWS Well Architected Framework, Image Analysis, Computer Vision, leadership techiniques and many other things!**
 
 - 🤝 I’m looking for help with **Software Security/GDPR**
 
