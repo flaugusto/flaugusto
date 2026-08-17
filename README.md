@@ -3,7 +3,7 @@
 
 Welcome to my Github!
 
-- 🔭 I’m currently working in the Account and Onboarding team at [Nomad Global](https://www.nomadglobal.com).
+- 🔭 I’m currently working in the Customer Care (Chatbot backend) team at [Nomad Global](https://www.nomadglobal.com).
 
 - 🌱 I’m currently learning **AWS Well Architected Framework, Image Analysis, Computer Vision, leadership techiniques and many other things!**
 
